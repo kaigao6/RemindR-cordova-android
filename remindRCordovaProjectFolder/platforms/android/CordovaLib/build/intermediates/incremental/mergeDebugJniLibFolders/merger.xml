@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/kaigao/Documents/code/mad9022/assignments/wk7-RemindR/remindRCordovaProjectFolder/platforms/android/CordovaLib/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/kaigao/Documents/code/mad9022/assignments/wk7-RemindR/remindRCordovaProjectFolder/platforms/android/CordovaLib/src/debug/jniLibs"/></dataSet></merger>

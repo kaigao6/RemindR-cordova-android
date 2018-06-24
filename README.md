@@ -5,7 +5,7 @@ Project name: RemindR
 This is two screen Android Cordova App that lets the user do three things:
 - add a local notification;
 - list saved local notifications;
-- delete an existing local notification.
+- delete an existing local notification
 
 Layout & Navigation
 
